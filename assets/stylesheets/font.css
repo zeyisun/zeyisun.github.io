@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Sonsie One';
+  src: url('../font/SonsieOne-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  text-transform: initial;
+}
+
+@font-face {
+  font-family: 'Droid Serif';
+  src: url('../font/DroidSerif.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  text-transform: initial;
+}
