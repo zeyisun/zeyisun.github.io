@@ -1,0 +1,21 @@
+.mod-footer p {
+  padding-bottom: 50px;
+  line-height: 1;
+  text-align: center;
+  color: #3f3f3f;
+  margin: 0;
+}
+
+.mod-footer p small {
+  font-size: 100%;
+}
+
+.fa {
+  font-size: 30px !important;
+  margin: 10px 15px;
+}
+
+.mod-social {
+  padding-top: 120px;
+  text-align: center;
+}
