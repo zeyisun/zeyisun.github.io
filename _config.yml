@@ -1,0 +1,27 @@
+title: "Jason's"
+
+name: "Jason's"
+
+description: 'Sharing makes better.'
+
+author: 'Jason Liao'
+
+author_email: lmovingon2014@gmail.com
+
+baseurl: /
+
+url: http://jasonliao.github.io/
+
+permalink: /posts/:year-:month-:day-:title.html
+
+port: 4000
+
+gems: ['jekyll-paginate']
+
+paginate: 6
+
+paginate_path: 'page:num'
+
+source: .
+
+exclude: ['README.md', 'node_modules', 'gulpfile.js', 'package.json', '_site']
