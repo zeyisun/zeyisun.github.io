@@ -5,17 +5,17 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jasonliao/jasonliao.github.io.git"
+    "url": "git+https://github.com/zeyisun/zeyisun.github.io.git"
   },
   "keywords": [
     "blog"
   ],
-  "author": "Jason Liao <lmovingon2014@gmail.com> (https://github.com/jasonliao)",
+  "author": "Jason Liao <lmovingon2014@gmail.com> (https://github.com/zeyisun)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jasonliao/jasonliao.github.io/issues"
+    "url": "https://github.com/zeyisun/zeyisun.github.io/issues"
   },
-  "homepage": "https://jasonliao.github.io",
+  "homepage": "https://zeyisun.github.io",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
